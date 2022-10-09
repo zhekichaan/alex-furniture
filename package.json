@@ -2,7 +2,7 @@
   "name": "alex-furniture",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goitacademy.github.io/alex-furniture/",
+  "homepage": "https://zhekichaan.github.io/alex-furniture/",
   "dependencies": {
     "@redux-devtools/extension": "^3.2.3",
     "@reduxjs/toolkit": "^1.8.5",
